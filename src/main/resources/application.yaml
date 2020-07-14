@@ -1,5 +1,5 @@
 file:
-  homeEnvSystemVar: HOME
+  homeEnvSystemVar: HOMEPATH
   inFolderPath: /data/in/
   outFolderPath: /data/out/
   fileEncode: UTF-8
