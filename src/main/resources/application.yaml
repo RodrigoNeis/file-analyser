@@ -1,0 +1,10 @@
+file:
+  homeEnvSystemVar: HOME
+  inFolderPath: /data/in/
+  outFolderPath: /data/out/
+  fileEncode: UTF-8
+  outputFileName: rodrigo_neis.done.dat
+file-watcher:
+  pollInterval: 5000
+  quietPeriod: 3000
+
